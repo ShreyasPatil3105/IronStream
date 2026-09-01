@@ -14,7 +14,7 @@ from contextlib import asynccontextmanager
 from typing import Any
 
 import asyncpg
-from fastapi import FastAPI, Query, WebSocket, WebSocketDisconnect
+from fastapi import FastAPI, Query, WebSocket, WebSocketDisconnect, Depends
 from fastapi.responses import JSONResponse
 
 # =============================================================================
