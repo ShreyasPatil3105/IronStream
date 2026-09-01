@@ -5,6 +5,7 @@ redis
 orjson
 python-dotenv
 prometheus-client
+slowapi
 psutil
 asyncpg==0.28.0
 httpx
