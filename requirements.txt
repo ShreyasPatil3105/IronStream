@@ -6,4 +6,5 @@ orjson
 python-dotenv
 prometheus-client
 psutil
+asyncpg==0.28.0
 httpx
